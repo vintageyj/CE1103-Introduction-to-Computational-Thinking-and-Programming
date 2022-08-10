@@ -1,1 +1,1 @@
-# CE1103-Introduction-to-Computational-Thinking-and-Programming
+# CE1103 Introduction to Computational Thinking and Programming
